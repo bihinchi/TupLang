@@ -629,7 +629,7 @@ if __name__ == '__main__':
 
     if ns.who == True:
         # identify who wrote this
-        print( '276190 Magomed Udratov' )
+        print( Udratov' )
 
     elif ns.file is None:
         # user didn't provide input filename
